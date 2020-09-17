@@ -7,6 +7,7 @@ You can refer to this medium article [Generate QR Code programmatically using Az
 
 ## Installation
 Require the use of npm package [node-qrcode] (https://www.npmjs.com/package/qrcode)
+
 ```npm install --save qrcode```
 
 ## Contributing
