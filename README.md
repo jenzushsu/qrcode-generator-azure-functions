@@ -1,7 +1,11 @@
 # QR Code Generator using Azure Functions
 Using [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/), you can generate QR code with text passed into the query string of this functions. 
 
-This is developed as for a use case using PowerApps as the application layer to generate QR Code programmatically for users within an organziation without the use of a public available QR Code generators for various reasons. Please refer to this repo [QR Code Generator Canvas app with PowerApps](https://github.com/jenzushsu/qrcode-generator-powerapps) for the PowerApp developed for this use case.
+This is developed as for a use case using PowerApps as the application layer to generate QR Code programmatically for users within an organziation without the use of a public available QR Code generators for various reasons. 
+
+![](https://media.giphy.com/media/ltABm7cRTJz5pqqvsb/giphy.gif)
+
+Please refer to this repo [QR Code Generator Canvas app with PowerApps](https://github.com/jenzushsu/qrcode-generator-powerapps) for the PowerApp developed for this use case.
 
 You can refer to this medium article [Generate QR Code programmatically using Azure Functions + Power Apps](https://medium.com/@jenzushsu/generate-qr-code-programmatically-using-azure-functions-power-apps-d0e545c0a5d3) for the details on this Azure Function.
 
